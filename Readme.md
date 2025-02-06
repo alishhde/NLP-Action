@@ -31,10 +31,10 @@
                     2
                     </td>
                 <td align="left">
-                    <a href='Actions/Action%20002%20-%20Sexism%20Detection%20with%20LLMs%20and%20Prompt%20Engineering/LLM%20Prompting%20Assignment.ipynb'>Sexism Detection with LLMs and Prompt Engineering</a>
+                    <a href='Actions/Action%20002%20-%20Sexism%20Detection%20with%20LLMs%20and%20Prompt%20Engineering/LLM%20Prompting.ipynb'>Sexism Detection with LLMs and Prompt Engineering</a>
                     </td>
                 <td align="left">
-                    <p>This <a href='Actions/Action%20002%20-%20Sexism%20Detection%20with%20LLMs%20and%20Prompt%20Engineering/LLM%20Prompting%20Assignment.ipynb'>Notebook</a> studied the performance of pre-trained LLMs available through the Hugging Face API for sexism text classification. Zero-shot and Few-shot is also applied in prompting and the results are studied in details. Further information can be found in aformentioned notebook as well as the <a href='Actions/Action%20002%20-%20Sexism%20Detection%20with%20LLMs%20and%20Prompt%20Engineering/NLP%20Sexism%20Detection%20with%20Prompting%20to%20LLMs.pdf'>documentaion</a>.</p>
+                    <p>This <a href='Actions/Action%20002%20-%20Sexism%20Detection%20with%20LLMs%20and%20Prompt%20Engineering/LLM%20Prompting.ipynb'>Notebook</a> studied the performance of pre-trained LLMs available through the Hugging Face API for sexism text classification. Zero-shot and Few-shot is also applied in prompting and the results are studied in details. Further information can be found in aformentioned notebook as well as the <a href='Actions/Action%20002%20-%20Sexism%20Detection%20with%20LLMs%20and%20Prompt%20Engineering/NLP%20Sexism%20Detection%20with%20Prompting%20to%20LLMs.pdf'>documentaion</a>.</p>
                 </td>
             </tr>
         </tbody>
